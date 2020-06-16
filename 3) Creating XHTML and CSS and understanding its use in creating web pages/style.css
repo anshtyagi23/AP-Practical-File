@@ -1,0 +1,16 @@
+
+.dv{ background-color:#4a4646;
+    margin: 0px 300px 300px 300px;}
+    .abc{margin-left: 60px;}
+
+input[type=email]{width:50%;
+      margin-left: 60px;
+    }
+
+body{background-color:#212020}
+.acc{
+	color: white;
+	text-align: center;
+    text-shadow: 5px;
+  padding: 2px;
+margin: auto;}
